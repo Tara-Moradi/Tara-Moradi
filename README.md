@@ -4,25 +4,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on energy-efficient nanophotonic deep
-learning
+- 🔭 I’m currently working on energy-efficient nanophotonic deep learning
 - 🌱 I’m currently learning Machine learning
 
 - 💬 Ask me about Quantum optics, quantum, and optics
   
 - 📫 How to reach me: tmordai@gmail.com
+  
 
-  🖥 Skills:
+  🖥 My Skills:
 
-- Photonics and Optics
+- Photonics, Optics, and Nonlinear Optics
 
 - Research and Development (R&D)
 
 - Data Analysis (SQL and python)
 
-- DWDM
+- DWDM, Plasmonics, Thin Film Deposition, Cleanroom, Nanofabrication, phase change materials, Troubleshooting, ...
 
-- Comsol, python, Mathematica, Matlab, SQL, ...
+- Comsol, python, Mathematica, Matlab, SQL, Latex, Simulations, SOLIDWORKS, ...
 
   
 <!--
