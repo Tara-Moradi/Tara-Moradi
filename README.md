@@ -12,7 +12,7 @@ learning
   
 - 📫 How to reach me: tmordai@gmail.com
 
-- 🖥 Skills:
+  🖥 Skills:
 
 - Photonics and Optics
 
